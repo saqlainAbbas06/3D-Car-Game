@@ -153,14 +153,6 @@ This project is intended to be distributed under the **MIT License**. See the `L
 
 If the repository does not already contain an MIT license, verify that the project assets permit this licensing before adding one.
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [your-username](https://github.com/your-username)
-
-Replace the placeholders with your actual profile details.
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
